@@ -1,3 +1,4 @@
 # currentwip
 literally just whatever im working on atm
-website: 
+
+https://aucraia.github.io/currentwip/wippage.html
